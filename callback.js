@@ -1,3 +1,5 @@
+//cristhian leon
+
 function soyAsincrona(){
     //console.log('hola, soy una funcion asincrona');
     setTimeout(function(){
